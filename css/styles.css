@@ -2,7 +2,7 @@
     --primary-text-color: #757575;
     --title-text-color: #212121;
     --accent-color: #2196F3;
-    --primary-bg-color: #F5F5F5;
+    --primary-bg-color:#FFFFFF;
     --hero-text-color:#FFFFFF;
     --hero-bc-color:#2F303A;
 }
@@ -134,7 +134,7 @@ body{
         
         /* Features*/
 
-.features-subtite{
+.features-subtitle{
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
